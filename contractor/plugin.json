@@ -1,0 +1,8 @@
+{
+  "name": "Contractor",
+  "version": "0.0.1",
+  "contactEmailAddress": "change-me@example.com",
+  "requiredPermissions": [],
+  "optionalPermissions": [],
+  "hasRibbonIcon": true
+}

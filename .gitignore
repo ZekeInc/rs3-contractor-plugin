@@ -1,0 +1,7 @@
+*.zip
+
+# Third-party dev tool (github.com/Kilsaaa/Devtools), installed locally only
+devtools/
+
+# Dev-only debug plugin, kept local (never commit or publish)
+contractor-debug/
