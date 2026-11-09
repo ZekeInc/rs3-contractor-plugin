@@ -5,3 +5,6 @@ devtools/
 
 # Dev-only debug plugin, kept local (never commit or publish)
 contractor-debug/
+
+# Project notes for Claude Code, kept local
+CLAUDE.md
